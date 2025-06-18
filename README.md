@@ -61,15 +61,14 @@ node server.js
 ## 🖼️ UI Preview
 
 ![image](https://github.com/user-attachments/assets/b189bdc1-ae17-430f-b4dd-201027dc9974)
-![image](https://github.com/user-attachments/assets/b189bdc1-ae17-430f-b4dd-201027dc9974)
 ![image](https://github.com/user-attachments/assets/d35edcce-16c4-4223-a173-0652e694fc57)
-![image](https://github.com/user-attachments/assets/d35edcce-16c4-4223-a173-0652e694fc57)
-![image](https://github.com/user-attachments/assets/aa320950-043e-4c17-a36d-031a46ea0e4b)
 ![image](https://github.com/user-attachments/assets/aa320950-043e-4c17-a36d-031a46ea0e4b)
 
 
 ## 🧱 Project Structure
-shikha-electricals=/
+
+```plaintext
+shikha-electricals/
 ├── public/
 ├── src/
 │   ├── components/
@@ -79,15 +78,15 @@ shikha-electricals=/
 ├── package.json
 └── tailwind.config.js
 
-
-shikha-electricals_backend=/
+shikha-electricals_backend/
 ├── data/
 ├── routes/
-│   ├── products.js/
+│   └── products.js
 ├── server.js
 ├── package.json
 └── tailwind.config.js
 ```
+
 
 
 ## 🧠 Learnings & Takeaways
