@@ -43,42 +43,52 @@ Built using React for the frontend and Node.js (Express) for the backend, the pl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/shikha-electricals-inventory.git
-cd shikha-electricals-inventory
+git clone https://github.com/sourabhsinghrajput45/ShikhaElectricals.git
+cd shikha_electricals
 
 # Install dependencies
 npm install
 
 # Start the frontend (React)
 npm run dev
-```
 
-> If backend integration is included, navigate to `/server` and run `node index.js` or configure as per your setup.
+# Start the Backend (Node)
+cd ..
+cd shikha_electricals_backend
+node server.js
+```
 
 ## 🖼️ UI Preview
 
-> Add screenshots here (e.g., dropdown filter, inventory grid, mobile view)
+![image](https://github.com/user-attachments/assets/b189bdc1-ae17-430f-b4dd-201027dc9974)
+![image](https://github.com/user-attachments/assets/b189bdc1-ae17-430f-b4dd-201027dc9974)
+![image](https://github.com/user-attachments/assets/d35edcce-16c4-4223-a173-0652e694fc57)
+![image](https://github.com/user-attachments/assets/d35edcce-16c4-4223-a173-0652e694fc57)
+![image](https://github.com/user-attachments/assets/aa320950-043e-4c17-a36d-031a46ea0e4b)
+![image](https://github.com/user-attachments/assets/aa320950-043e-4c17-a36d-031a46ea0e4b)
+
 
 ## 🧱 Project Structure
-
-```plaintext
-shikha-electricals-inventory/
+shikha-electricals=/
 ├── public/
 ├── src/
 │   ├── components/
-│   │   └── BrandDropdown.js
+│   ├── pages/
 │   ├── App.js
 │   └── index.js
 ├── package.json
 └── tailwind.config.js
+
+
+shikha-electricals_backend=/
+├── data/
+├── routes/
+│   ├── products.js/
+├── server.js
+├── package.json
+└── tailwind.config.js
 ```
 
-## 📂 Backend (Optional / For Full Integration)
-
-- Built using Express.js with route handling for:
-  - GET/POST product listings
-  - CRUD for brand/category data
-- Can be extended with MongoDB or PostgreSQL for persistent data storage
 
 ## 🧠 Learnings & Takeaways
 
