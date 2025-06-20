@@ -1,0 +1,1400 @@
+[
+  {
+    "id": 1,
+    "name": "Andria Es 1200mm (Expresso Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/f/h/fhcad2sebr48_star_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Andria Es 1200mm (Indigo Blue)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/f/h/fhcad2sibl48_star.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Andria Es 1200mm (Maroon)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/f/h/fhcad2sebr48_star_1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Andria Es 1200mm (Pearl white)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcad2spwt48_star.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Andria Es 1200mm (Quartz)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcad2squa48_star.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Astura Es 1200mm (Bianco Bronze)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcas1sbnc48_star_1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Astura Es 1200mm (White Pearl Ivory)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcas1spwi48_star.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Astura Es 1200mm (White maroon)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcas1swmr48_star.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Astura Es 1200mm (smoke brown gold mist)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcas1ssbw48_star.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bianca Art Es 1200mm (Gold Mist-D. Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "Bianca Art Es 1200mm (Pearl White Nick)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "Bianca Es 1200mm (Gold Mist)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcbn1sgmi48_star.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Carnesia Es 1200mm (Beige cola chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Carnesia Es 1200mm (pearl white Lt copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "EVA (1200)MM PEARL WHITE MARBLE",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcvd1smpw48.jpg"
+  },
+  {
+    "id": 16,
+    "name": "EVA METALLIC (1200)MM CREAM WICKER",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcvd1smcw48.jpg"
+  },
+  {
+    "id": 17,
+    "name": "EVA(1200)MM MAT ESPRESSO LINNGS",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcvd1smel48.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Enticer Art Es 1200mm (Flora sapphire Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "Enticer Art Es 1200mm (pearl white Stone)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcea2spwh48.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Enticer Art Es 1200mm Flora (Expresso Brown Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcea2sebr48_star.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Enticer Es 1200mm (BEIGE COPPER)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Enticer Es 1200mm (Bronze cola chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Enticer Es 1200mm (Indigo Blue Chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Enticer Es 1200mm (MET. BLACK CHROME)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Enticer Es 1200mm (Pearl Ivory Beige)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "Enticer Es 1200mm (Pearl white Chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "Enticer Es 1200mm (Pearl white Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "Enticer Es 1200mm (Rose Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "Enticer Es 600mm (pearl white gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "Enticer Es 900mm (Beige Copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Enticer Es 900mm (Pearl white Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "name": "Enticer Vineer Es 1200mm (Walnut)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "name": "Enticer Wood Es 1200mm (Rosewood)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "name": "Enticer Wood Es 1200mm (oakwood)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "name": "Ep Trendy Es 1200mm (Antique Brass)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhctr1sabr24_1.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Equs Es 1200mm (Ivory Bronze)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhceq1sbnc48_star.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Equs Es 1200mm (White maroon)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhceq1swmr48_star.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Equs Es 1200mm (White pearl ivory)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 39,
+    "name": "Equs Es 1200mm (smoke Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 40,
+    "name": "Exter Es 1200mm (Bianco )",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcxt1sbnc48.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Exter Es 1200mm (Grey )",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcxt1sgry48.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Exter Es 1200mm (Midnight Black  )",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcxt1smnt48.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Exter Es 1200mm (white )",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcxt1swht48.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Festiva Es 1200mm (Expresso Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcfe1sgmi48_star_1_.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Festiva Es 1200mm (Gold mist)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcfe1sgmi48_star_1.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Festiva Es 1200mm (Mist)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcfe1sgmi48_star_2_.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Festiva Es 1200mm (Ocean blue silver)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/e/festiva_ocean_blue_silver_1.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Festiva Es 1200mm (Pearl Ivory)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/e/festiva_pearl_ivory_gold_for_gate.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Festiva Es 1200mm (pearl white silver)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/e/festiva_pearl_white_silver.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Festiva prime 1200mm (Dusk chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 51,
+    "name": "Festiva prime 1200mm (Rose Gold cola chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 52,
+    "name": "Festiva prime 1200mm (beige cola chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 53,
+    "name": "Festiva prime 1200mm (pearl white Lt copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "name": "Fusion Prime Es 1200mm (Beige Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcfp1spbg48_star.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Fusion prime Es 1200mm (Indigo Blue chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 56,
+    "name": "Fusion prime Es 1200mm (Matt Black)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcfp1secc48_star.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Glaze Es 1200mm (Smoke Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 58,
+    "name": "Milor Es 1200mm (Dusk)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/m/i/milor_es_1.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Milor Es 1200mm (Gold)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/m/i/milor_es_1_.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Milor Es 1200mm (Pearl Ivory Beige)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 61,
+    "name": "Milor Es 1200mm (pearl white)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/m/i/milor_es_2_.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Quick Air 1200mm matt blue",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/q/_/q_matt_blue_3.jpg"
+  },
+  {
+    "id": 63,
+    "name": "QuickAir 1200mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/q/_/q_white_2_1.jpg"
+  },
+  {
+    "id": 64,
+    "name": "QuickAir 1200mm smoked brown",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/q/_/q_smoke_brown_1_2.jpg"
+  },
+  {
+    "id": 65,
+    "name": "SS 390 ES 1200mm (Pearl Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcss1spbr48_1.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Samraat 1200mm (Bianco)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbnc48_star.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Samraat 1200mm (Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbrn48_star.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Samraat 1200mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1swht48_star.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Samraat 600mm (Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbrn24_1.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Samraat 600mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/s/a/samraat_600_mm_1_1.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Samraat 900mm (Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbrn36_star.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Samraat 900mm (Ivory)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbnc36_star.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Samraat 900mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1swht36_star.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Stealth Air  Es 1200mm (Indigo Blue)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhctf1sibl36_1__1.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Thrill Air Es 1200mm (Army Green)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcta1shgr48_1.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Thrill Air Es 1200mm (Bianco)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbnc48_star.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Thrill Air Es 1200mm (Gray)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcta1sgry48_1.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Thrill Air Es 1200mm (Matt Blue)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcta1smbi48_1.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Thrill Air Es 1200mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1swht48_star.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Thrill Air Es 1200mm. ( Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcsv1sbrn48_star.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Thrill Air Es 1200mm. (Smoke Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcta1ssbw48_1.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Trinity Es 1200mm (Dusk Lt copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 83,
+    "name": "Trinity Es 1200mm (M.Black Lt copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhctg1smbc48_1.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Trinity Es 1200mm (pearl white Lt copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhctg1spwh48_1.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Troika Es 1200mm (champagne Honey)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 86,
+    "name": "Troika Es 1200mm (pearl white silver)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 87,
+    "name": "Xpress Es 1200mm (Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcxe1sbrn48_1.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Zester Es 1200mm (Dusk)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcze1sdub48_star_1__1.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Zester Es 1200mm (pearl white)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcze1spwc48_star.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Zester Es 1200mm (slate)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcze1ssls48_star.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Albus UL Bldc 1320mm (Brown-Wood);;0.0",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhcll5ssbw52_1.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Crista Bldc 1200mm (Champagne Cola)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhccb5schl48.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Crista UL Bldc 1200mm (White.L.Copper)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhccb5splc48_1.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Efficiencia Prime 1200mm (Bianco)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/b/i/bianco_remote.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Efficiencia Prime 1200mm (Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/b/r/brown_remote.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Efficiencia Prime 1200mm (White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/w/h/white_remote.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Elio 1200mm (Elegant White)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhce15swht48_5_star.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Elio 1200mm (Grey)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 99,
+    "name": "Elio 1200mm (PR PINEWOOD-P.WH)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 100,
+    "name": "Elio 1200mm (Smoke Brown)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhce15ssbw48_5_star.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Elio Prime 1200mm (Prime Mist-Pearl White CO)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhce15spmh48_star.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Enticer Bldc 1200mm (pearl white chrome)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 103,
+    "name": "TURBOFORCE (600mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 104,
+    "name": "VENTILAIR - DB (300mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEMTDBB12.jpg"
+  },
+  {
+    "id": 105,
+    "name": "VENTILAIR - DB Sweep (230mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 106,
+    "name": "VENTILAIR - DSP  (230mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEMTDBS09.jpg"
+  },
+  {
+    "id": 107,
+    "name": "VENTILAIR DSP (300mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEMTDBS12.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Ventilair Dx (150mm) Exhaust fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEDXOWH06.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Ventilair Dx (250mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhvvedxowh10_1__5.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Ventilair Dx Hs (200mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEDXOWH08.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ventilair Dx-c (130mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEDCWHT05.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Ventilair Hush (100mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhvvehuwht04_1.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Ventilair Hush (150mm) Exhaust Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHVVEHUWHT06.jpg"
+  },
+  {
+    "id": 114,
+    "name": "AIRWYNN (300mm) Cabin Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/f/h/fhbawstwht12_1.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Accelero HS (400mm)PEDESTAL FAN White red",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 116,
+    "name": "Airboll HS (450mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHWABHSWHT18.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Ceira (300mm) Cabin Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 118,
+    "name": "Girik Gold (400mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 119,
+    "name": "Girik Neo (400mm) wall fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 120,
+    "name": "Gyro (400mm) Cabin Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/f/h/fhbswgywht16_1.jpg"
+  },
+  {
+    "id": 121,
+    "name": "I COOL 175MM",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 122,
+    "name": "Platina HS (400mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHWSWPTWHT16.jpg"
+  },
+  {
+    "id": 123,
+    "name": "SWING LX HS 400MM TABLE FAN BLUE",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/fans/FHTSWLXWHT16_1.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Sameera (400mm) Table Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/fans/FHTSUSTWHT16_1.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Sprint H S  (400mm ) Pedestal Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/fans/FHSSPHSWHT18.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Sprint Led (400mm Blue) Pedestal Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHSSPSTBLU16.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Swing (300mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHWSWSTIVR12.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Swing (400mm) wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHWSWSTIVR12.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Swing HS (300mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/fans/FHWSWSTIVR12.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Turboforce (450mm) Wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 131,
+    "name": "V2 Neo Pedestal Black Fan (450MM)",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 132,
+    "name": "V3 (450mm) pedestal Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/fans/FHSV3TFSLB18.jpg"
+  },
+  {
+    "id": 133,
+    "name": "V3 (450mm) wall Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 134,
+    "name": "Velocity Neo-HS (400mm) Table Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 135,
+    "name": "Windstorm OXY HS (400Mmm) Pedestal Fan",
+    "brand": "Havells",
+    "category": "Fans",
+    "description": ""
+  },
+  {
+    "id": 136,
+    "name": "ALTIMA (70LTR) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghracbud220.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Celia (55Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 138,
+    "name": "Celia (70Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 139,
+    "name": "Celia i (55Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 140,
+    "name": "Convertible (80Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghraccce1851_1.jpg"
+  },
+  {
+    "id": 141,
+    "name": "KACE (65Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 142,
+    "name": "Kool Grande-h (70Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghracbke070_6_.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Kool Grande-h (85Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/k/o/koolgrande_i_90.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Koolaire (55Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/k/o/koolaire_80_3.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Koolaire (80Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/k/o/koolaire_80_3.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Supro (55Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 147,
+    "name": "Supro (75Ltr) Desert Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": ""
+  },
+  {
+    "id": 148,
+    "name": "ZURII (35Ltr) Tower Cooler",
+    "brand": "Havells",
+    "category": "Coolers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/g/h/ghracche040_7_.jpg"
+  },
+  {
+    "id": 149,
+    "name": "CARLO 5L 3KW IWH",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": ""
+  },
+  {
+    "id": 150,
+    "name": "Fabia 10Ltr. Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Water-Heater/GHWAFATWB010.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Fabia 6Ltr. Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Water-Heater/GHWAFATWB010.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Flagro 5.5Ltr. LPG water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Water-Heater/GHWGFLSIV006.jpg"
+  },
+  {
+    "id": 153,
+    "name": "INSTANIO 10L Water heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/i/n/instanio_yellow_neck_red_light_1__1_1.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Instanio 3Ltr. Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghwvnpswcw03_9__1.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Monza DX 10Ltr Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/m/o/monza_1_.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Monza Digi 10Ltr water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/m/o/monza_1_.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Monza Digi 15Ltr. Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/m/o/monza_1_.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Troika 10Ltr. Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Water-Heater/GHWAHPSIV010.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Valerio 10Ltr Water Heater",
+    "brand": "Havells",
+    "category": "Geysers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Water-Heater/GHWCBNTWG015.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Havells Albus Kopere Alkaline RO",
+    "brand": "Havells",
+    "category": "Water Purifiers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghwraas015-base.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Havells Loop Alkaline RO",
+    "brand": "Havells",
+    "category": "Water Purifiers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghwrlps015-base.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Havells UV Plus RO",
+    "brand": "Havells",
+    "category": "Water Purifiers",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghwuprl015_1.jpg"
+  },
+  {
+    "id": 163,
+    "name": "HAVELLS 24R BL OVEN TOASTER GRILLER (1380W)",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": ""
+  },
+  {
+    "id": 164,
+    "name": "HAVELLS BLAZE 1250W HAVE WEIGHT DRY IRON",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/b/l/blaze_2_.jpg"
+  },
+  {
+    "id": 165,
+    "name": "HAVELLS Hestio 9 Wave FIN 2400W",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghrofcjk240_1.jpg"
+  },
+  {
+    "id": 166,
+    "name": "HEXO PLUS BLACK 3J MIXER + STEALTH DRY IRON",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/h/e/hexo_blend_4_jar_1_1.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Havells (ASPRO PLUS) 550w Heavy duty Mixer",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghfmgcyw055_1.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Havells (POWER HUNK 3 JAR) 800W heavy duty Mixer",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": ""
+  },
+  {
+    "id": 169,
+    "name": "Havells (POWER HUNK 4 JAR) 800W heavy duty Mixer",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": ""
+  },
+  {
+    "id": 170,
+    "name": "Havells (ZELLO) 750W Heavy duty Mixer",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/z/e/zello_4_jar_1_1.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Havells 20W LED Tubelight (2Feet)",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": ""
+  },
+  {
+    "id": 172,
+    "name": "Havells AQUA PLUS black 1500w 1.2Ltr cattle",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/a/q/aqua_blue_1.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Havells AQUA PLUS black 1500w 1.5Ltr cattle",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/a/q/aqua_blue_1.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Havells Beato 300w. Hand Mixer",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": ""
+  },
+  {
+    "id": 175,
+    "name": "Havells COMFI TEAL 1000W Dry Iron",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHGDIBUR075.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Havells Classique 300w. Hand Blender",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHFHBEBV030.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Havells Czar 1000w. Dry Iron",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHGDICDW100.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Havells Glace 750w. Dry Iron",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHGDIBUR075.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Havells HAWK 1100w. Heavy weight Dry Iron",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHGDIBZB110.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Havells Stealth 1000w. Dry Iron",
+    "brand": "Havells",
+    "category": "Appliences",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHGDIBFB100.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Havells CISTA 2000W Room Heater",
+    "brand": "Havells",
+    "category": "Heater",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/import/Appliances/GHRFHAYW200.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Havells Hestio 9 Wave Fin 2400W",
+    "brand": "Havells",
+    "category": "Heater",
+    "description": "",
+    "image": "https://havells.com/media/catalog/product/cache/2051dfe7399bbb12fcdb3313c6f79cc4/g/h/ghrofcjk240_1.jpg"
+  }
+]
